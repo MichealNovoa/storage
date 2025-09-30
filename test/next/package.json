@@ -36,7 +36,7 @@
     "tailwindcss": "^3.4.17",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3",
-    "undici": "^6.20.1"
+    "undici": "^5.29.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.50.1",
